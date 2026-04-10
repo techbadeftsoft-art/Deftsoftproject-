@@ -1,0 +1,21 @@
+{
+  "name": "Demo Staff Manager",
+  "short_name": "StaffManager",
+  "description": "Enterprise solution for workforce optimization and task accountability.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192?text=SM",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512?text=SM",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
